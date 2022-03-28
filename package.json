@@ -1,0 +1,34 @@
+{
+  "name": "ngramma",
+  "version": "1.0.0",
+  "description": "Count the occurrences of a given character set in a given text file with different combinations.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BahodurSaidov/ngramma.git"
+  },
+  "keywords": [
+    "ngramma",
+    "unigramma",
+    "count",
+    "letters",
+    "duplicates",
+    "occurrence",
+    "search",
+    "compare",
+    "match",
+    "alphabet"
+  ],
+  "author": "Bahodur Saidbeki Saidzoda, PhD, Tajik Technical University",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/BahodurSaidov/ngramma/issues"
+  },
+  "homepage": "https://github.com/BahodurSaidov/ngramma#readme"
+}
