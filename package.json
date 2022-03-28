@@ -1,6 +1,6 @@
 {
   "name": "ngramma",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Count the occurrences of a given character set in a given text file with different combinations.",
   "main": "index.js",
   "directories": {
