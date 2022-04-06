@@ -5,8 +5,9 @@ const textIn = "textIn.txt"
 const textOut = "textOut.txt"
 const charSet = "abcdefg"
 
-g.ngramma(n_combination,textIn,textOut,charSet,function(results){
+g.ngramma(n_combination,textIn,textOut,charSet,function(results, err){
 	console.log(results)
+	console.log(err)
 })
 
 // terminal/cmd/console output
